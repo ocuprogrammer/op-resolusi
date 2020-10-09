@@ -2,5 +2,7 @@ RENCANA BELAJAR OP
 
 - HTML dan CSS3
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Dasar
 - PHP OOP
