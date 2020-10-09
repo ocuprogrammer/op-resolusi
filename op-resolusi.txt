@@ -3,5 +3,5 @@ OP RESOLUSI
 - Konsisten belajar menjadi seorang programmer
 - Membuat contoh project dari hasil belajar
 - Meninggalkan kebiasaan menonton film
-- Menuju menjadi Full Stack dan DEVOPS
 - Berkolaborasi dengan lebih banyak Expert
+- Membuat project yang bermanfaat untuk orang lain dan ditempat saya bekerja
