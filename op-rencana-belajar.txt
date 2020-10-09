@@ -1,0 +1,6 @@
+RENCANA BELAJAR OP
+
+- HTML dan CSS3
+- Javascript
+- PHP Dasar
+- PHP OOP
